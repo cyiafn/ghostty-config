@@ -1,0 +1,7 @@
+font-family = MesloLGS NF
+background-opacity = 0.95
+background-blur-radius = 30
+theme = flow
+window-width = 200
+window-height = 60
+window-save-state = always
